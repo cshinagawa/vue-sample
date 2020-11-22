@@ -8,6 +8,6 @@ export const client = axios.create({
 
 export default {
     getPosts(params) {
-        return client.get('articles', params);
+        return client.get('posts', params);
     }
 }

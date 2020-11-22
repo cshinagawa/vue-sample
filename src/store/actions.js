@@ -1,4 +1,4 @@
-import Api from './apis/api'
+import Api from '../apis/api'
 import MutationTypes from './mutation-types'
 
 export default {
