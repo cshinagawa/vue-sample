@@ -1,0 +1,12 @@
+{
+  "articles": [
+    { "id": 1, "title": "json-server", "author": "typicode"},
+    { "id": 2, "title": "faker.js", "author": "Marak"}
+  ],
+  "profile": { "name": "typicode" },
+  "posts": [
+    { "id": 1, "body": "test1"},
+    { "id": 2, "body": "test2"},
+    { "id": 3, "body": "test3"}
+  ]
+}
