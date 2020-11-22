@@ -4,6 +4,8 @@ import LikeNumber from './components/LikeNumber.vue'
 import store from './store'
 
 Vue.config.productionTip = false
+
+// グローバル登録
 Vue.component("LikeNumber", LikeNumber);
 
 new Vue({
